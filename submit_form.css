@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+
+.success-message {
+    background-color: #dff0d8; /* 成功メッセージの背景色 */
+    color: #3c763d; /* 成功メッセージのテキスト色 */
+    padding: 10px; /* 成功メッセージの内側の余白 */
+    margin-bottom: 20px; /* 成功メッセージの下側の余白 */
+    border: 1px solid #d0e9c6; /* 成功メッセージの境界線 */
+    border-radius: 4px; /* 成功メッセージの角の丸み */
+}
